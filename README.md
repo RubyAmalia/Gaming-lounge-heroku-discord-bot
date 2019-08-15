@@ -1,4 +1,4 @@
-# Sloppiers-heroku-discord-bot
+# Gaming-lounge-heroku-discord-bot
 
 A barebones Node.js bot using [discord.js](https://github.com/hydrabolt/discord.js/).
 
